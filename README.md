@@ -1,4 +1,4 @@
-# JavaTasks
+# Dispense Amount Calculation
 Design Dispense Algorithm 
 
 Assignment:  Dispense Algorithm
