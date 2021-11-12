@@ -3,10 +3,6 @@ Design Dispense Algorithm
 
 Assignment:  Dispense Algorithm
 
-Author:  [Atalay Özkan (matalayozkan@gmail.com)]
-
-Due Date:  [2021/11/12 03:00AM]
-
 Description:  [Design dispense algorithm which for any entered amount combine
 Notes denominations
     Input(s):
